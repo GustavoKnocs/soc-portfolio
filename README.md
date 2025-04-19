@@ -20,4 +20,4 @@ This portfolio contains practical projects that demonstrate core skills required
 - Google Cybersecurity Professional Certificate 
 
 ## About Me
-Aspiring cybersecurity analyst with strong interests in threat detection, incident response, and SOC operations. Currently transitioning into the blockchain/Web3 security space while building hands-on experience.
+Aspiring cybersecurity analyst with strong interests in threat detection, incident response, and SOC operations. Currently transitioning into the cloud security space while building hands-on experience.
